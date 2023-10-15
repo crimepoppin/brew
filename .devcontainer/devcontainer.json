@@ -1,4 +1,4 @@
-{
+    {
   "name": "Homebrew/brew",
   "image": "ghcr.io/homebrew/brew:latest",
   "workspaceFolder": "/home/linuxbrew/.linuxbrew/Homebrew",
@@ -7,4 +7,3 @@
   "remoteEnv": {
     "HOMEBREW_GITHUB_API_TOKEN": "${localEnv:GITHUB_TOKEN}"
   }
-}
