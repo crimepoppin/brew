@@ -1,4 +1,4 @@
-#!/bin/bash
+  #!/bin/bash
 set -e
 
 # fix permissions so Homebrew and Bundler don't complain
