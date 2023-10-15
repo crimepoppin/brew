@@ -1,4 +1,4 @@
-{
+    {
   "name": "Homebrew/brew-ubuntu18.04",
   "image": "ghcr.io/homebrew/ubuntu18.04:latest",
   "workspaceFolder": "/home/linuxbrew/.linuxbrew/Homebrew",
